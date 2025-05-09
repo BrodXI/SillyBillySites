@@ -76,3 +76,7 @@ h1 {
     transform: scale(1.2);  /*Increased scale*/
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.35); /* Enhanced shadow on hover for more pop */
 }
+
+.button-container a {
+    text-decoration: none; /* Removes underline from links within the button container */
+}
