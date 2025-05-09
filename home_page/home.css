@@ -1,7 +1,7 @@
 /* home.css */
 
 body {
-    background-image: url("images/cover.png"); /* This will be overlaid by the ::before pseudo-element if you're using the fade effect */
+    background-image: url("cover.png"); /* This will be overlaid by the ::before pseudo-element if you're using the fade effect */
     background-color: #BDB76B; /* DarkKhaki - a darker yellow for the page background */
     background-size: cover; /* Ensures the image covers the entire background, may crop */
     background-position: center; /* Centers the image */

@@ -9,7 +9,7 @@ body {
   background-color: #f0f0f0;
   padding-bottom: 20px;
   box-sizing: border-box;
-  background-image: url('images/cover2.png'); /* Path to your image */
+  background-image: url('cover.png'); /* Path to your image */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
