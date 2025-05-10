@@ -2,7 +2,7 @@
 const games = [
     { name: "boi", icon: "images/game1_icon.png", link: "link/to/game1.html" },
     { name: "1v1.lol", icon: "images/game2_icon.png", link: "pages/1v1lol.html" },
-    { name: "Game 3", icon: "images/game3_icon.png", link: "link/to/game3.html" },
+    { name: "Game 3", icon: "images/game3_icon.png", link: "pages/1v1real.html" },
     { name: "Game 3", icon: "images/game3_icon.png", link: "link/to/game3.html" },
     { name: "Game 4", icon: "images/game4_icon.png", link: "link/to/game4.html" },
     { name: "Game 5", icon: "images/game5_icon.png", link: "link/to/game5.html" },
